@@ -3,7 +3,7 @@
 // @name            YtterBium
 // @description     Better Theater mode and PiP function for YouTube!
 // @compatible      chrome
-// @icon            https://raw.githubusercontent.com/StellarisStudio/YtterBium/img/ytterbium-64.png
+// @icon            https://raw.githubusercontent.com/StellarisStudio/YtterBium/master/img/ytterbium-64.png
 // @author          Loky (StellarisStudio)
 // @namespace       https://github.com/StellarisStudio/YtterBium
 // @homepageURL     https://github.com/StellarisStudio/YtterBium
