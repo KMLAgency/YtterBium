@@ -42,9 +42,10 @@
     .YbPIP { fill:rgba(255,255,255); }
     .YbPIP:hover { fill:rgba(255,255,255,.6); }
     .fillwin { width:99%!important; max-width:100vw!important; height:99.6vh!important; max-height:100vh!important; top:0!important; left:0!important; margin-left:0!important; }
-    .fillwin .ytp-chrome-bottom { width:70%!important; margin:auto!important; text-align:center; left:0; right:0; }
     .StrechVideo { width:100%!important; height:auto!important; left:0!important; margin-left:0!important; }
     .StVideo { width:100%!important; height:auto!important; left:0!important; }
+
+    #iri-quick-control-full-browser { display:none!important; }
     ` );
     /* Inject the CSS */
     //if (typeof GM_addStyle != "undefined") { GM_addStyle(css);

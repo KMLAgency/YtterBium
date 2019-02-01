@@ -1,4 +1,4 @@
-# ![Demo Google Screenshot](img/ytterbium-64.png) YtterBium 
+# ![Demo Google Screenshot](img/ytterbium-64.png) YtterBium
 YtterBium is an userscript to improve your experience with YouTube!
 
 ### Features
